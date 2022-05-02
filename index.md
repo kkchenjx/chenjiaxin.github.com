@@ -1,13 +1,18 @@
+<h1 align="center">Hi 👋, I'm Jiaxin Chen</h1>
+<h3 align="center">A graduate student from China</h3>
 
-## 个人信息
-### 姓名
-        陈嘉欣
-### 学历
-        硕士研究生
-### 学校
-        中北大学
-### 邮箱
-        chenjiaxin_ty@163.com
-## 研究方向
-        深度学习、目标检测、轻量化
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkchenjx&label=Profile%20views&color=0e75b6&style=flat" alt="kkchenjx" /> </p>
+
+- 🔭 I’m currently working on **North University of China**
+
+- 🌱 I’m currently learning **Deep learning**
+
+- 📫 How to reach me **chenjiaxin_ty@163.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
